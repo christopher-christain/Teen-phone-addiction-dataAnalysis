@@ -1,7 +1,3 @@
-Here's a clean and professional `README.md` tailored for your **Teen Phone Addiction Data Analysis** project, designed to be GitHub- and recruiter-friendly:
-
----
-
 ````
 # 📱 Teen Phone Addiction - Data Analysis Project
 
