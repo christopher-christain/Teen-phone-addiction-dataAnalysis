@@ -1,6 +1,4 @@
----
 
-````
 # 📱 Teen Phone Addiction - Data Analysis Project
 
 A data science project that explores the patterns, causes, and effects of phone addiction among teenagers using data-driven insights. This project involves end-to-end data analysis — from data cleaning to model building — aimed at uncovering actionable insights to understand and potentially address this modern-day concern.
